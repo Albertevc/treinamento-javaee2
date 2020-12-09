@@ -12,6 +12,8 @@
 
 	<name>treinamento-javaee2</name>
 
+
+<!-- 	ABC -->
 	<modules>
 		<module>projects</module>
 		<module>primary-source</module>
